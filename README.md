@@ -1,5 +1,3 @@
-Danke für den Hinweis! Hier ist die erweiterte Dokumentation mit einer Lizenzangabe:
-
 * * * * *
 
 ZFS und SMART Check Script
@@ -28,7 +26,7 @@ Das Skript benötigt die folgenden Tools:
 
 -   **ZFS-Utilities**: Für die ZFS-Befehle (`zpool`).
 -   **Smartmontools**: Zum Abrufen von SMART-Daten.
--   **Sendmail**: Zum Versenden von E-Mail-Benachrichtigungen.
+-   **Sendmail**: Zum Versenden von E-Mail-Benachrichtigungen. Postfix muss bereits auf eurem System konfiguriert sein!
 
 Installation der erforderlichen Pakete:
 
