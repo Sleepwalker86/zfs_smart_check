@@ -182,7 +182,7 @@ Das Skript steht unter der **MIT-Lizenz**, wodurch es frei verwendet, verändert
 ```
 MIT License
 
-Copyright (c) 2024 [Ihr Name]
+Copyright (c) 2024 [Sascha Moritz]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
